@@ -1,0 +1,6 @@
+telethon
+pillow
+pytesseract
+rapidfuzz
+aiofilestelethon
+python-dotenv
